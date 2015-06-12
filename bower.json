@@ -1,0 +1,21 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "authors": [
+    "Ryan Anderson <anderson.ryanc@gmail.com>"
+  ],
+  "description": "Just messing around with es6 to learn",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

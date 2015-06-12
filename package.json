@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Just messing around with es6 to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "es6"
+  ],
+  "author": "{\"name\":\"Ryan Anderson\",\"email\":\"anderson.ryanc@gmail.com\"}",
+  "license": "ISC"
+}
